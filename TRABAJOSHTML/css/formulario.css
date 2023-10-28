@@ -1,0 +1,25 @@
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+button {
+    background-color: rgb(72, 72, 148);
+    color: #fff;
+    padding: 10px; 
+    border: none;
+    border-radius: 20px;
+} 
+
+input{
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+
+
+h4 {
+    color: gray;
+}
